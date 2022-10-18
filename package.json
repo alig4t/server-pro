@@ -1,0 +1,12 @@
+{
+  "name": "server-pro",
+  "version": "1.0.0",
+  "description": "server pro use mvc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ali GHasemi",
+  "license": "ISC"
+}
